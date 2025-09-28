@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+public/bla_timeline_analysis_csv/
+public/family_phone_analysis_csv/ 
+*.csv 

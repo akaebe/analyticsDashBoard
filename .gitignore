@@ -23,6 +23,6 @@ dist-ssr
 *.sln
 *.sw?
 
-public/bla_timeline_analysis_csv/
-public/family_phone_analysis_csv/ 
+dist/bla_timeline_analysis_csv/
+dist/family_phone_analysis_csv/ 
 *.csv 
